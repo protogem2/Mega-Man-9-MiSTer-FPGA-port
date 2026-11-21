@@ -15,7 +15,7 @@ Charge/Slide version of Mega Man separate from the Normal version with his own s
 
 Playable Bass mode from Mega Man 10, with new graphics to interact with different stage obstacles and enemies, including shield enemies. His shop is also implemented.
 
-Upgraded Proto Man mode from the original game, now with his shop from 10.
+Upgraded Proto Man mode from the original game, now with his shop from Mega Man 10.
 
 All 3 new characters have access to Hero, Superhero, Special Stage, Time Attack, and Endless Attack modes with updated local record keeping.
 
