@@ -7,7 +7,7 @@ This project is fully LLM/AI coded, with about 90 hours of human QA so far and s
 
 This page will be updated with a proper github release with source code once it is organized and cleaned up as best as it can be for any potential human review or reuse. Issues/bug reports from current fully compiled versions released elsewhere will be attended to here for now. 
 
-New features:
+**New features:**
 
 Charge/Slide version of Mega Man separate from the Normal version with his own single player campaign.
 
