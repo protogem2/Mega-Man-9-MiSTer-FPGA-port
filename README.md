@@ -29,4 +29,10 @@ Bass and Charge/Slide Modes need more bugtesting to find less obvious bugs.
 
 Certain enemies do not play certain sound effects.
 
-This will all be corrected through more testing and updates.
+**To do:**
+
+Bugtesting and fixes.
+
+Implement toggle-able Honey Woman replacement for Hornet Man in the Extras menu using GregarLink10's sprite sheet.
+
+Create simple ending sequences using existing assets for Bass and Proto Manmode; utilizing dialogue from other games or ancillary media (manga etc), that play before the credits sequence.
