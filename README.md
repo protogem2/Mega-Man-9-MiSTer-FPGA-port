@@ -26,3 +26,7 @@ Easily moddable streaming music system using wav files and a tracklist plain tex
 Minor performance tweaks in the sound, music and graphics engines are needed.
 
 Bass and Charge/Slide Modes need more bugtesting to find less obvious bugs.
+
+Certain enemies do not play certain sound effects.
+
+This will all be corrected through more testing and updates.
