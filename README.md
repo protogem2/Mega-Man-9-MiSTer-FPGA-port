@@ -9,6 +9,8 @@ This page will be updated with a proper github release with source code once it 
 
 **New features:**
 
+Simultaneous 240p output from Analog I/O board, and 1080p output from HDMI port.
+
 Charge/Slide version of Mega Man separate from the Normal version with his own single player campaign.
 
 Playable Bass mode from Mega Man 10, with new graphics to interact with different stage obstacles and enemies, including shield enemies. His shop is also implemented.
