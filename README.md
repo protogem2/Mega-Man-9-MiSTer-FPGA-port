@@ -1,5 +1,5 @@
 # Mega-Man-9-MiSTer-FPGA-port
-A faithful port of Mega Man 9 to the MiSTer FPGA platform with added features, targeting 128mb single SDRAM setups (Dual RAM setup compatible)
+A faithful port of Mega Man 9 to the MiSTer FPGA platform with added features, targeting 128mb single SDRAM setups (Dual RAM setup compatible) and running the latest MiSTer unstable main.
 
 **Mega Man is owned by Capcom, I own nothing.**
 
