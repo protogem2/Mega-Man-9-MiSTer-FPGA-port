@@ -10,7 +10,11 @@ This page will be updated with a proper github release with source code once it 
 New features:
 
 Charge/Slide version of Mega Man separate from the Normal version with his own single player campaign.
+
 Playable Bass mode from Mega Man 10, with new graphics to interact with different stage obstacles and enemies, including shield enemies. His shop is also implemented.
+
 Upgraded Proto Man mode from the original game, now with his shop from 9.
+
 All 3 new characters have access to Hero, Superhero, Special Stage, Time Attack, and Endless Attack modes.
+
 Easily moddable music system using wav files and a tracklist plain text file with loop indicators and loop sample positions provided.
