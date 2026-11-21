@@ -15,6 +15,6 @@ Playable Bass mode from Mega Man 10, with new graphics to interact with differen
 
 Upgraded Proto Man mode from the original game, now with his shop from 10.
 
-All 3 new characters have access to Hero, Superhero, Special Stage, Time Attack, and Endless Attack modes.
+All 3 new characters have access to Hero, Superhero, Special Stage, Time Attack, and Endless Attack modes with updated local record keeping.
 
 Easily moddable music system using wav files and a tracklist plain text file with loop indicators and loop sample positions provided.
