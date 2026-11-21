@@ -1,7 +1,7 @@
 # Mega-Man-9-MiSTer-FPGA-port
 A faithful port of Mega Man 9 to the MiSTer FPGA platform with added features. 
 
-Mega Man is owned by Capcom, I own nothing. 
+**Mega Man is owned by Capcom, I own nothing. **
 
 This project is fully LLM/AI coded, with about 90 hours of human QA so far and some custom spritework and soundtrack implementation done by myself. 
 
