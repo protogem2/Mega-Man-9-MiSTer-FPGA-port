@@ -33,8 +33,6 @@ Certain enemies do not play certain sound effects.
 
 Bugtesting and fixes, before any other new features.
 
-Implement toggle-able Honey Woman replacement for Hornet Man in the Extras menu using GregarLink10's sprite sheet.
-
 Create simple ending sequences using existing assets for Bass and Proto Man modes; utilizing dialogue from other games or ancillary media (manga etc), that play before the credits sequence.
 
 Playable Roll?
