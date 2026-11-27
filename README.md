@@ -31,7 +31,7 @@ Certain enemies do not play certain sound effects.
 
 **To do:**
 
-Bugtesting and fixes, before any other new features.
+Bugtesting and fixes.
 
 Create simple ending sequences using existing assets for Bass and Proto Man modes; utilizing dialogue from other games or ancillary media (manga etc), that play before the credits sequence.
 
