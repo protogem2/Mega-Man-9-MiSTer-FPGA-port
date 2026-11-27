@@ -37,7 +37,7 @@ Create simple ending sequences using existing assets for Bass and Proto Man mode
 
 Playable Roll?
 
-Credits:
+**Credits:**
 
 GregarLink10 for the Honey Woman sprite sheet.
 
