@@ -41,4 +41,6 @@ Credits:
 
 GregarLink10 for the Honey Woman sprite sheet.
 
+Yorkieyt and HANSUNGKEE for the Roll sprite sheet.
 
+Mega Man 8-bit Deathmatch and Megaman Maker projects for various sprites.
