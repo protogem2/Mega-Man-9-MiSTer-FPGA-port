@@ -20,6 +20,8 @@ Upgraded Proto Man mode from the original game, now with his shop from Mega Man 
 
 All 3 new characters have access to Hero, Superhero, Special Stage, Time Attack, and Endless Attack modes with updated local record keeping.
 
+W-tanks added to the shop.
+
 Easily moddable streaming music system using wav files and a tracklist plain text file with loop indicators and loop sample positions provided. This frees up all in game sound channels for sound effects.
 
 **Known/WIP issues:**
