@@ -36,7 +36,7 @@ Bugtesting and fixes.
 
 Create simple ending sequences using existing assets for Bass and Proto Man modes; utilizing dialogue from other games or ancillary media (manga etc), that play before the credits sequence.
 
-Playable Roll?
+Playable Roll, with Mega Man 6 Power and Jet transformations via Tango, broom melee, and Mega Man 6 charge shot and slide. 
 
 **Credits:**
 
